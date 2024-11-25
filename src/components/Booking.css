@@ -1,0 +1,33 @@
+/* src/App.css or src/components/Booking.css */
+.booking-container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.booking-container h1 {
+    color: #333;
+}
+
+.booking-container label {
+    margin-right: 10px;
+}
+
+.booking-container select {
+    margin-top: 10px;
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
